@@ -1,6 +1,8 @@
 #Monty Hall Kata
 Rules of the game
 
+TLDR: 3 Doors, 1 has a prize. Pick the one you think has the prize but don't open it. Open one door that definately has no prize then choose wether to swap or stick with the door you originally chose.
+
 1) The game show set has three doors. A prize such as a car or vacation is behind one door, and the other two doors hide a valueless prize called a Zonk; in most discussions of the problem, the Zonk is a goat.
 
 2) The contestant chooses one door. We’ll assume the contestant has no inside knowledge of which door holds the prize, so the contestant will just make a random choice.
